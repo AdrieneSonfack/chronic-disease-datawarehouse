@@ -1,0 +1,19 @@
+id_maladie,nom_maladie,type_maladie,organe_cible,systeme,code_cim10,gravite
+1,Diabète de type 2,Chronique,Pancréas,Endocrinien,E11,Modérée
+2,Diabète de type 1,Chronique,Pancréas,Endocrinien,E10,Modérée
+3,Hypertension artérielle,Chronique,Cœur,Cardio-vasculaire,I10,Modérée
+4,Insuffisance cardiaque,Chronique,Cœur,Cardio-vasculaire,I50,Sévère
+5,Asthme chronique,Chronique,Poumons,Respiratoire,J45,Modérée
+6,BPCO,Chronique,Poumons,Respiratoire,J44,Sévère
+7,Insuffisance rénale chronique,Chronique,Reins,Rénal,N18,Sévère
+8,Épilepsie chronique,Chronique,Cerveau,Neurologique,G40,Modérée
+9,Arthrite rhumatoïde,Chronique,Articulations,Rhumatismal,M05,Modérée
+10,Anémie chronique,Chronique,Sang,Hématologique,D50,Légère
+11,Drépanocytose,Chronique,Sang,Hématologique,D57,Sévère
+12,Cirrhose hépatique,Chronique,Foie,Digestif,K74,Sévère
+13,Hypothyroïdie,Chronique,Thyroïde,Endocrinien,E03,Légère
+14,Obésité morbide,Chronique,Multiple,Métabolique,E66,Modérée
+15,VIH/SIDA chronique,Chronique,Système immun,Immunologique,B24,Sévère
+16,Diabète + Hypertension,Chronique,Multiple,Mixte,E11,Sévère
+17,Hypertension + Insuffisance card,Chronique,Cœur,Cardio-vasculaire,I50,Sévère
+18,Insuffisance rénale + HTA,Chronique,Multiple,Mixte,N18,Sévère

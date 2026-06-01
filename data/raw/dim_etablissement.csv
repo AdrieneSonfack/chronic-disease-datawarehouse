@@ -1,0 +1,56 @@
+id_etablissement,nom,type_etab,ville,region,pays,telephone,capacite_lits,niveau,actif
+1,Dispensaire Yaoundé,Dispensaire,Yaoundé,Centre,Cameroun,+237 224 350 328,22,1,True
+2,Hôpital Privé Yaoundé,Hôpital privé,Yaoundé,Centre,Cameroun,+237 231 658 189,350,3,True
+3,Polyclinique du Centre,Polyclinique,Mbalmayo,Centre,Cameroun,+237 221 323 338,120,2,True
+4,Polyclinique du Mfoundi,Polyclinique,Obala,Centre,Cameroun,+237 223 833 765,200,2,True
+5,Dispensaire Nanga-Eboko,Dispensaire,Nanga-Eboko,Centre,Cameroun,+237 227 703 384,49,1,True
+6,Hôpital Régional de Bafia,Hôpital public,Bafia,Centre,Cameroun,+237 226 448 384,500,3,True
+7,Hôpital Privé Douala,Hôpital privé,Douala,Littoral,Cameroun,+237 221 489 199,50,3,True
+8,Clinique Sainte-Anne Douala,Clinique,Douala,Littoral,Cameroun,+237 224 926 144,500,2,True
+9,Dispensaire Nkongsamba,Dispensaire,Nkongsamba,Littoral,Cameroun,+237 221 665 400,44,1,True
+10,Dispensaire Edéa,Dispensaire,Edéa,Littoral,Cameroun,+237 221 146 777,38,1,True
+11,Hôpital Privé Loum,Hôpital privé,Loum,Littoral,Cameroun,+237 233 338 987,500,3,True
+12,Hôpital Régional de Melong,Hôpital public,Melong,Littoral,Cameroun,+237 230 954 473,120,3,True
+13,Hôpital Privé Bafoussam,Hôpital privé,Bafoussam,Ouest,Cameroun,+237 230 373 818,80,3,True
+14,Dispensaire Bafoussam,Dispensaire,Bafoussam,Ouest,Cameroun,+237 231 350 267,19,1,True
+15,Centre de Santé de Dschang,Centre de santé,Dschang,Ouest,Cameroun,+237 231 670 324,39,1,True
+16,Dispensaire Mbouda,Dispensaire,Mbouda,Ouest,Cameroun,+237 233 132 924,35,1,True
+17,Clinique Sainte-Anne Foumban,Clinique,Foumban,Ouest,Cameroun,+237 223 680 997,120,2,True
+18,Dispensaire Bangangté,Dispensaire,Bangangté,Ouest,Cameroun,+237 227 505 758,35,1,True
+19,Centre de Santé de Bamenda,Centre de santé,Bamenda,Nord-Ouest,Cameroun,+237 223 862 674,24,1,True
+20,Polyclinique du Mfoundi,Polyclinique,Bamenda,Nord-Ouest,Cameroun,+237 226 470 324,80,2,True
+21,Hôpital Privé Kumbo,Hôpital privé,Kumbo,Nord-Ouest,Cameroun,+237 232 148 981,200,3,True
+22,Hôpital Régional de Wum,Hôpital public,Wum,Nord-Ouest,Cameroun,+237 226 710 165,50,3,True
+23,Centre de Santé de Ndop,Centre de santé,Ndop,Nord-Ouest,Cameroun,+237 224 666 981,39,1,True
+24,Hôpital Régional de Mbengwi,Hôpital public,Mbengwi,Nord-Ouest,Cameroun,+237 228 868 373,350,3,True
+25,Dispensaire Buea,Dispensaire,Buea,Sud-Ouest,Cameroun,+237 226 261 564,36,1,True
+26,Hôpital Régional de Limbe,Hôpital public,Limbe,Sud-Ouest,Cameroun,+237 232 282 619,350,3,True
+27,Hôpital Régional de Kumba,Hôpital public,Kumba,Sud-Ouest,Cameroun,+237 228 723 303,500,3,True
+28,Hôpital Privé Mamfe,Hôpital privé,Mamfe,Sud-Ouest,Cameroun,+237 232 643 100,80,3,True
+29,Polyclinique du Centre,Polyclinique,Tiko,Sud-Ouest,Cameroun,+237 221 471 999,80,2,True
+30,Clinique Sainte-Marie Ngaoundéré,Clinique,Ngaoundéré,Adamaoua,Cameroun,+237 229 180 187,50,2,True
+31,Dispensaire Meiganga,Dispensaire,Meiganga,Adamaoua,Cameroun,+237 232 228 231,46,1,True
+32,Dispensaire Tibati,Dispensaire,Tibati,Adamaoua,Cameroun,+237 228 993 721,45,1,True
+33,Centre de Santé de Banyo,Centre de santé,Banyo,Adamaoua,Cameroun,+237 224 508 787,28,1,True
+34,Dispensaire Tignère,Dispensaire,Tignère,Adamaoua,Cameroun,+237 227 223 353,38,1,True
+35,Hôpital Privé Garoua,Hôpital privé,Garoua,Nord,Cameroun,+237 229 667 335,30,3,True
+36,Polyclinique du Centre,Polyclinique,Garoua,Nord,Cameroun,+237 231 746 160,50,2,True
+37,Hôpital Privé Guider,Hôpital privé,Guider,Nord,Cameroun,+237 221 626 343,30,3,True
+38,Clinique Sainte-Joseph Pitoa,Clinique,Pitoa,Nord,Cameroun,+237 228 235 840,350,2,True
+39,Polyclinique du Centre,Polyclinique,Tcholliré,Nord,Cameroun,+237 232 584 926,200,2,True
+40,Centre de Santé de Figuil,Centre de santé,Figuil,Nord,Cameroun,+237 230 541 462,27,1,True
+41,Centre de Santé de Maroua,Centre de santé,Maroua,Extrême-Nord,Cameroun,+237 220 789 769,41,1,True
+42,Dispensaire Kousseri,Dispensaire,Kousseri,Extrême-Nord,Cameroun,+237 231 447 919,21,1,True
+43,Hôpital Régional de Mokolo,Hôpital public,Mokolo,Extrême-Nord,Cameroun,+237 228 559 243,50,3,True
+44,Centre de Santé de Mora,Centre de santé,Mora,Extrême-Nord,Cameroun,+237 223 995 177,26,1,True
+45,Centre de Santé de Yagoua,Centre de santé,Yagoua,Extrême-Nord,Cameroun,+237 230 653 956,50,1,True
+46,Hôpital Régional de Bertoua,Hôpital public,Bertoua,Est,Cameroun,+237 226 597 592,30,3,True
+47,Hôpital Privé Abong-Mbang,Hôpital privé,Abong-Mbang,Est,Cameroun,+237 222 488 102,500,3,True
+48,Centre de Santé de Batouri,Centre de santé,Batouri,Est,Cameroun,+237 226 813 848,31,1,True
+49,Polyclinique du Centre,Polyclinique,Yokadouma,Est,Cameroun,+237 223 403 322,350,2,True
+50,Hôpital Régional de Doumé,Hôpital public,Doumé,Est,Cameroun,+237 225 158 151,200,3,True
+51,Polyclinique du Centre,Polyclinique,Ebolowa,Sud,Cameroun,+237 228 182 971,120,2,True
+52,Hôpital Privé Kribi,Hôpital privé,Kribi,Sud,Cameroun,+237 233 340 513,30,3,True
+53,Hôpital Régional de Sangmélima,Hôpital public,Sangmélima,Sud,Cameroun,+237 229 140 734,200,3,True
+54,Hôpital Régional de Ambam,Hôpital public,Ambam,Sud,Cameroun,+237 223 785 833,120,3,True
+55,Clinique Sainte-Anne Djoum,Clinique,Djoum,Sud,Cameroun,+237 222 787 760,50,2,True

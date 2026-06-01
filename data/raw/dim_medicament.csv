@@ -1,0 +1,26 @@
+id_medicament,nom_commercial,nom_molecule,classe_therapeutique,sous_classe,fabricant,forme_galenique,voie_administration,disponible
+1,Metformine 500mg,Metformine,Antidiabétique oral,Biguanide,Sanofi,Comprimé,Orale,True
+2,Glucophage 850mg,Metformine,Antidiabétique oral,Biguanide,Merck,Comprimé,Orale,True
+3,Insuline Lantus,Insuline glargine,Insuline,Analogue lent,Sanofi,Injectable,Injectable,True
+4,Insuline Actrapid,Insuline humaine,Insuline,Rapide,Novo,Injectable,Injectable,True
+5,Glibenclamide 5mg,Glibenclamide,Antidiabétique oral,Sulfamide,Roche,Comprimé,Orale,True
+6,Amlodipine 5mg,Amlodipine,Antihypertenseur,Inhibiteur calcique,Pfizer,Comprimé,Orale,True
+7,Losartan 50mg,Losartan,Antihypertenseur,ARA II,MSD,Comprimé,Orale,True
+8,Enalapril 10mg,Enalapril,Antihypertenseur,IEC,Merck,Comprimé,Orale,True
+9,Aténolol 50mg,Aténolol,Antihypertenseur,Bêtabloquant,AZ,Comprimé,Orale,True
+10,Furosémide 40mg,Furosémide,Diurétique,Diurétique de l'anse,Roche,Comprimé,Orale,True
+11,Spironolactone 25mg,Spironolactone,Diurétique,Anti-aldostérone,Pfizer,Comprimé,Orale,True
+12,Digoxine 0.25mg,Digoxine,Cardiotonique,Digitalique,GSK,Comprimé,Orale,True
+13,Ventoline,Salbutamol,Bronchodilatateur,Bêta-2 agoniste,GSK,Aérosol,Inhalée,True
+14,Seretide,Fluticasone,Corticoïde inhalé,Corticostéroïde,GSK,Aérosol,Inhalée,True
+15,Théophylline 200mg,Théophylline,Bronchodilatateur,Xanthine,Sanofi,Comprimé,Orale,True
+16,Carbamazépine 200mg,Carbamazépine,Antiépileptique,Stabilisateur,Novartis,Comprimé,Orale,True
+17,Valproate 500mg,Acide valproïque,Antiépileptique,Stabilisateur,Sanofi,Comprimé,Orale,True
+18,Méthotrexate 2.5mg,Méthotrexate,Immunosuppresseur,Antifolique,Pfizer,Comprimé,Orale,True
+19,Fer sulfate 200mg,Sulfate ferreux,Antianémique,Fer oral,Bayer,Comprimé,Orale,True
+20,Hydroxyurée 500mg,Hydroxyurée,Antidrépanocytaire,Cytostatique,BMS,Comprimé,Orale,True
+21,Tenofovir 300mg,Ténofovir,Antirétroviral,INTI,Gilead,Comprimé,Orale,True
+22,Lévothyroxine 50µg,Lévothyroxine,Hormone thyroïdienne,Substitutif,Merck,Comprimé,Orale,True
+23,Aspirine 100mg,AAS,Antiagrégant,Salicylé,Bayer,Comprimé,Orale,True
+24,Atorvastatine 20mg,Atorvastatine,Hypolipémiant,Statine,Pfizer,Comprimé,Orale,True
+25,Oméprazole 20mg,Oméprazole,Gastroprotecteur,IPP,AZ,Comprimé,Orale,True

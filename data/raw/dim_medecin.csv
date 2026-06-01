@@ -1,0 +1,121 @@
+id_medecin,nom,prenom,titre,specialite,sous_specialite,telephone,email,annee_diplome,actif
+1,Eyinga,Fatima,Dr.,Cardiologie,Insuffisance cardiaque,+237 689 676 202,fatima.eyinga@sante.cm,1995,True
+2,Fouda,Claude,Dr.,Rhumatologie,Arthrite,+237 699 457 170,claude.fouda@sante.cm,2003,True
+3,Ngono,Emmanuel,Pr.,Médecine interne,Maladies chroniques,+237 692 409 726,emmanuel.ngono@sante.cm,2009,True
+4,Akama,Gilles,Dr.,Rhumatologie,Arthrite,+237 698 237 370,gilles.akama@sante.cm,2004,True
+5,Kamga,Nicolas,Dr.,Gériatrie,Polypathologie,+237 678 388 719,nicolas.kamga@sante.cm,2012,True
+6,Nkemdirim,Henri,Dr.,Médecine générale,,+237 686 600 357,henri.nkemdirim@sante.cm,2016,True
+7,Guifo,Paul,Dr.,Neurologie,Épilepsie,+237 670 441 889,paul.guifo@sante.cm,2003,True
+8,Mbeki,Fabrice,Dr.,Médecine interne,Maladies chroniques,+237 687 822 537,fabrice.mbeki@sante.cm,2018,True
+9,Fon,Robert,Pr.,Gériatrie,Polypathologie,+237 671 954 478,robert.fon@sante.cm,1999,True
+10,Nguele,Joseph,Dr.,Endocrinologie,Diabétologie,+237 698 915 981,joseph.nguele@sante.cm,2004,True
+11,Fotso,Nicolas,Dr.,Médecine générale,,+237 691 205 462,nicolas.fotso@sante.cm,2016,True
+12,Zamo,Laure,Dr.,Médecine interne,Maladies chroniques,+237 695 930 281,laure.zamo@sante.cm,2002,True
+13,Mbassi,Marie,Dr.,Gériatrie,Polypathologie,+237 695 785 984,marie.mbassi@sante.cm,2005,True
+14,Essomba,Martin,Dr.,Gériatrie,Polypathologie,+237 697 139 979,martin.essomba@sante.cm,1998,True
+15,Nkomo,Sandrine,Dr.,Gastro-entérologie,Maladies digestives,+237 696 914 992,sandrine.nkomo@sante.cm,2006,True
+16,Ngo Bello,Alexis,Dr.,Oncologie,Cancers chroniques,+237 680 385 985,alexis.ngobello@sante.cm,2001,True
+17,Tchamda,Jacques,Pr.,Pneumologie,Asthme et BPCO,+237 682 795 963,jacques.tchamda@sante.cm,2015,True
+18,Biya,Marie,Pr.,Néphrologie,Maladies rénales,+237 678 139 211,marie.biya@sante.cm,2000,True
+19,Tchouambou,Caroline,Pr.,Pneumologie,Asthme et BPCO,+237 686 218 494,caroline.tchouambou@sante.cm,2008,True
+20,Talla,Martin,Dr.,Gériatrie,Polypathologie,+237 686 925 651,martin.talla@sante.cm,2008,True
+21,Mbouombouo,Emmanuel,Dr.,Cardiologie,Insuffisance cardiaque,+237 689 421 779,emmanuel.mbouombouo@sante.cm,2016,True
+22,Bello,Igor,Dr.,Rhumatologie,Arthrite,+237 680 512 813,igor.bello@sante.cm,2004,True
+23,Nguele,Joëlle,Dr.,Médecine générale,,+237 691 866 278,joëlle.nguele@sante.cm,2008,True
+24,Nguimfack,Denise,Dr.,Endocrinologie,Diabétologie,+237 676 540 904,denise.nguimfack@sante.cm,2004,True
+25,Nganou,Fatima,Dr.,Gastro-entérologie,Maladies digestives,+237 686 584 912,fatima.nganou@sante.cm,2016,True
+26,Atangana,Gilles,Pr.,Néphrologie,Maladies rénales,+237 680 195 938,gilles.atangana@sante.cm,2011,True
+27,Bello,Gilles,Dr.,Médecine générale,,+237 670 147 350,gilles.bello@sante.cm,2001,True
+28,Ngoe,Laure,Dr.,Cardiologie,Insuffisance cardiaque,+237 698 744 689,laure.ngoe@sante.cm,2009,True
+29,Takoukam,Henri,Dr.,Neurologie,Épilepsie,+237 677 251 771,henri.takoukam@sante.cm,2010,True
+30,Kuate,Nicolas,Dr.,Cardiologie,Insuffisance cardiaque,+237 675 923 812,nicolas.kuate@sante.cm,2008,True
+31,Nguimfack,Chantal,Dr.,Médecine générale,,+237 674 920 575,chantal.nguimfack@sante.cm,1998,True
+32,Nganou,Reine,Pr.,Hématologie,Anémies chroniques,+237 683 950 661,reine.nganou@sante.cm,2018,True
+33,Essomba,Valérie,Dr.,Gériatrie,Polypathologie,+237 678 869 353,valérie.essomba@sante.cm,2010,True
+34,Ngum,Reine,Dr.,Rhumatologie,Arthrite,+237 678 550 179,reine.ngum@sante.cm,2010,True
+35,Tchamda,Sandrine,Pr.,Pneumologie,Asthme et BPCO,+237 672 241 254,sandrine.tchamda@sante.cm,2005,True
+36,Takoukam,David,Dr.,Médecine interne,Maladies chroniques,+237 672 524 517,david.takoukam@sante.cm,2017,True
+37,Feudjio,Joëlle,Dr.,Neurologie,Épilepsie,+237 696 530 498,joëlle.feudjio@sante.cm,1996,True
+38,Kuate,Marc,Dr.,Hématologie,Anémies chroniques,+237 670 460 405,marc.kuate@sante.cm,2007,True
+39,Ebot,Ursule,Pr.,Neurologie,Épilepsie,+237 695 717 325,ursule.ebot@sante.cm,2012,True
+40,Tchamda,Sandrine,Dr.,Neurologie,Épilepsie,+237 682 444 784,sandrine.tchamda@sante.cm,2010,True
+41,Essomba,Patricia,Pr.,Gastro-entérologie,Maladies digestives,+237 687 127 503,patricia.essomba@sante.cm,1999,True
+42,Yonkeu,Paul,Dr.,Neurologie,Épilepsie,+237 675 151 366,paul.yonkeu@sante.cm,1999,True
+43,Fouda,Brigitte,Dr.,Gastro-entérologie,Maladies digestives,+237 694 488 384,brigitte.fouda@sante.cm,2005,True
+44,Ebot,Cécile,Dr.,Cardiologie,Insuffisance cardiaque,+237 693 652 153,cécile.ebot@sante.cm,2010,True
+45,Yonkeu,Sandrine,Dr.,Cardiologie,Insuffisance cardiaque,+237 694 131 353,sandrine.yonkeu@sante.cm,2015,True
+46,Ngo Bello,Laurent,Dr.,Hématologie,Anémies chroniques,+237 674 584 785,laurent.ngobello@sante.cm,1999,True
+47,Fouda,Daniel,Dr.,Gastro-entérologie,Maladies digestives,+237 694 477 271,daniel.fouda@sante.cm,2017,True
+48,Akama,Jacques,Dr.,Médecine interne,Maladies chroniques,+237 688 126 419,jacques.akama@sante.cm,2004,True
+49,Sokoudjou,Denise,Pr.,Médecine générale,,+237 692 950 742,denise.sokoudjou@sante.cm,1997,True
+50,Takoukam,Robert,Pr.,Néphrologie,Maladies rénales,+237 695 223 915,robert.takoukam@sante.cm,2016,True
+51,Simo,Emmanuel,Dr.,Neurologie,Épilepsie,+237 672 618 763,emmanuel.simo@sante.cm,2016,True
+52,Ngoe,Marie,Dr.,Neurologie,Épilepsie,+237 683 470 750,marie.ngoe@sante.cm,2010,True
+53,Abena,Odette,Pr.,Neurologie,Épilepsie,+237 690 376 730,odette.abena@sante.cm,2000,True
+54,Mbouombouo,Fatima,Dr.,Gériatrie,Polypathologie,+237 680 972 351,fatima.mbouombouo@sante.cm,2013,True
+55,Nganou,Martin,Pr.,Médecine générale,,+237 689 784 488,martin.nganou@sante.cm,2009,True
+56,Wamba,Marie,Dr.,Pneumologie,Asthme et BPCO,+237 676 463 916,marie.wamba@sante.cm,2000,True
+57,Tchamda,Brigitte,Dr.,Hématologie,Anémies chroniques,+237 687 110 629,brigitte.tchamda@sante.cm,2017,True
+58,Owona,Paul,Dr.,Gériatrie,Polypathologie,+237 687 876 346,paul.owona@sante.cm,2008,True
+59,Sokoudjou,Martine,Dr.,Gastro-entérologie,Maladies digestives,+237 672 401 326,martine.sokoudjou@sante.cm,2009,True
+60,Owona,Odette,Pr.,Néphrologie,Maladies rénales,+237 681 584 666,odette.owona@sante.cm,2016,True
+61,Zamo,Élise,Dr.,Rhumatologie,Arthrite,+237 692 564 377,élise.zamo@sante.cm,2005,True
+62,Djomo,Cécile,Dr.,Cardiologie,Insuffisance cardiaque,+237 680 222 860,cécile.djomo@sante.cm,2018,True
+63,Fouda,Hervé,Dr.,Gériatrie,Polypathologie,+237 693 703 878,hervé.fouda@sante.cm,2010,True
+64,Ebot,Angèle,Dr.,Médecine générale,,+237 681 283 409,angèle.ebot@sante.cm,2004,True
+65,Simo,Henri,Dr.,Médecine interne,Maladies chroniques,+237 671 666 399,henri.simo@sante.cm,2003,True
+66,Kuate,Fabrice,Dr.,Gastro-entérologie,Maladies digestives,+237 688 391 580,fabrice.kuate@sante.cm,1998,True
+67,Nkemdirim,Fatima,Dr.,Médecine interne,Maladies chroniques,+237 697 589 216,fatima.nkemdirim@sante.cm,1996,True
+68,Wamba,David,Dr.,Cardiologie,Insuffisance cardiaque,+237 674 252 930,david.wamba@sante.cm,2013,True
+69,Owona,Sylvie,Dr.,Cardiologie,Insuffisance cardiaque,+237 689 710 909,sylvie.owona@sante.cm,2012,True
+70,Tiafack,Jacques,Dr.,Neurologie,Épilepsie,+237 679 980 702,jacques.tiafack@sante.cm,2009,True
+71,Nana,Aline,Pr.,Hématologie,Anémies chroniques,+237 693 201 881,aline.nana@sante.cm,1996,True
+72,Fouda,Fabrice,Dr.,Néphrologie,Maladies rénales,+237 675 345 277,fabrice.fouda@sante.cm,2016,True
+73,Mbarga,Georges,Pr.,Neurologie,Épilepsie,+237 685 398 133,georges.mbarga@sante.cm,2009,True
+74,Sokoudjou,François,Dr.,Néphrologie,Maladies rénales,+237 672 803 339,françois.sokoudjou@sante.cm,2017,True
+75,Ndip,Sophie,Dr.,Oncologie,Cancers chroniques,+237 683 217 657,sophie.ndip@sante.cm,2013,True
+76,Abena,Fabrice,Dr.,Néphrologie,Maladies rénales,+237 671 269 911,fabrice.abena@sante.cm,1999,True
+77,Zamo,Laure,Dr.,Hématologie,Anémies chroniques,+237 673 579 805,laure.zamo@sante.cm,2004,True
+78,Kouam,Odette,Pr.,Néphrologie,Maladies rénales,+237 685 548 182,odette.kouam@sante.cm,2011,True
+79,Mbouombouo,Nicolas,Pr.,Gériatrie,Polypathologie,+237 678 126 193,nicolas.mbouombouo@sante.cm,2005,True
+80,Ebot,Gilles,Dr.,Hématologie,Anémies chroniques,+237 694 788 941,gilles.ebot@sante.cm,2013,True
+81,Talla,Karine,Pr.,Médecine interne,Maladies chroniques,+237 690 552 384,karine.talla@sante.cm,2010,True
+82,Mbouombouo,Daniel,Dr.,Oncologie,Cancers chroniques,+237 685 456 518,daniel.mbouombouo@sante.cm,2010,True
+83,Kemfang,Brigitte,Dr.,Cardiologie,Insuffisance cardiaque,+237 683 810 607,brigitte.kemfang@sante.cm,2000,True
+84,Kouam,Nathalie,Dr.,Rhumatologie,Arthrite,+237 672 422 358,nathalie.kouam@sante.cm,1996,True
+85,Ngum,Angèle,Dr.,Neurologie,Épilepsie,+237 691 990 655,angèle.ngum@sante.cm,2011,True
+86,Eto,Élise,Dr.,Médecine générale,,+237 689 874 610,élise.eto@sante.cm,2011,True
+87,Eto,Reine,Pr.,Médecine générale,,+237 674 394 548,reine.eto@sante.cm,2003,True
+88,Ngo Bello,Angèle,Dr.,Oncologie,Cancers chroniques,+237 692 262 418,angèle.ngobello@sante.cm,2014,True
+89,Tchamba,Claude,Dr.,Cardiologie,Insuffisance cardiaque,+237 684 220 763,claude.tchamba@sante.cm,2002,True
+90,Sokoudjou,André,Dr.,Néphrologie,Maladies rénales,+237 683 954 594,andré.sokoudjou@sante.cm,2011,True
+91,Feudjio,Sandrine,Dr.,Rhumatologie,Arthrite,+237 676 713 620,sandrine.feudjio@sante.cm,1999,True
+92,Fon,Marc,Dr.,Néphrologie,Maladies rénales,+237 699 906 619,marc.fon@sante.cm,2008,True
+93,Mbarga,Thérèse,Dr.,Néphrologie,Maladies rénales,+237 696 701 693,thérèse.mbarga@sante.cm,2018,True
+94,Abena,Ursule,Dr.,Gastro-entérologie,Maladies digestives,+237 681 440 665,ursule.abena@sante.cm,2012,True
+95,Eyinga,Fatima,Dr.,Médecine générale,,+237 688 492 339,fatima.eyinga@sante.cm,2017,True
+96,Eyinga,Chantal,Dr.,Gériatrie,Polypathologie,+237 682 779 911,chantal.eyinga@sante.cm,2010,True
+97,Talla,André,Pr.,Médecine interne,Maladies chroniques,+237 680 990 202,andré.talla@sante.cm,2011,True
+98,Tiafack,Angèle,Dr.,Gastro-entérologie,Maladies digestives,+237 683 991 770,angèle.tiafack@sante.cm,1995,True
+99,Tankeu,Paul,Pr.,Néphrologie,Maladies rénales,+237 692 507 765,paul.tankeu@sante.cm,2005,True
+100,Nkemdirim,Marc,Dr.,Oncologie,Cancers chroniques,+237 680 741 835,marc.nkemdirim@sante.cm,2012,True
+101,Simo,Ursule,Dr.,Endocrinologie,Diabétologie,+237 677 746 800,ursule.simo@sante.cm,2014,True
+102,Zamo,Sandrine,Dr.,Cardiologie,Insuffisance cardiaque,+237 694 748 820,sandrine.zamo@sante.cm,2008,True
+103,Essomba,Michel,Dr.,Gériatrie,Polypathologie,+237 671 432 915,michel.essomba@sante.cm,2004,True
+104,Fotso,François,Dr.,Pneumologie,Asthme et BPCO,+237 677 643 521,françois.fotso@sante.cm,2008,True
+105,Mbassi,Georges,Dr.,Cardiologie,Insuffisance cardiaque,+237 689 799 346,georges.mbassi@sante.cm,2014,True
+106,Magne,Wanda,Dr.,Médecine interne,Maladies chroniques,+237 690 360 570,wanda.magne@sante.cm,2002,True
+107,Mbarga,Nathalie,Pr.,Gastro-entérologie,Maladies digestives,+237 675 175 552,nathalie.mbarga@sante.cm,2004,True
+108,Bello,Karine,Dr.,Oncologie,Cancers chroniques,+237 684 965 409,karine.bello@sante.cm,2008,True
+109,Ngoe,David,Dr.,Gastro-entérologie,Maladies digestives,+237 682 685 467,david.ngoe@sante.cm,1998,True
+110,Ngono,Odette,Dr.,Endocrinologie,Diabétologie,+237 678 108 679,odette.ngono@sante.cm,2016,True
+111,Feussi,Olivier,Dr.,Gériatrie,Polypathologie,+237 694 918 335,olivier.feussi@sante.cm,2010,True
+112,Guifo,Sandrine,Dr.,Médecine générale,,+237 691 873 838,sandrine.guifo@sante.cm,2014,True
+113,Kamga,Fabrice,Dr.,Oncologie,Cancers chroniques,+237 679 907 551,fabrice.kamga@sante.cm,2015,True
+114,Manga,Daniel,Dr.,Gériatrie,Polypathologie,+237 699 402 434,daniel.manga@sante.cm,1999,True
+115,Nkomo,Estelle,Dr.,Médecine interne,Maladies chroniques,+237 686 613 379,estelle.nkomo@sante.cm,2012,True
+116,Akama,Martin,Dr.,Gastro-entérologie,Maladies digestives,+237 695 217 579,martin.akama@sante.cm,2004,True
+117,Kuate,Samuel,Dr.,Médecine générale,,+237 697 923 670,samuel.kuate@sante.cm,2016,True
+118,Ndip,Sylvie,Dr.,Neurologie,Épilepsie,+237 687 226 565,sylvie.ndip@sante.cm,1995,True
+119,Zamo,Nathalie,Pr.,Oncologie,Cancers chroniques,+237 682 942 753,nathalie.zamo@sante.cm,2003,True
+120,Nangue,Angèle,Dr.,Médecine générale,,+237 689 674 435,angèle.nangue@sante.cm,2010,True
